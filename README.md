@@ -13,7 +13,7 @@
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://aistudio.google.com/)
 
-[🚀 Live Demo](#) · [📋 Features](#-features) · [🛠 Setup](#-local-development) · [🗄 Database](#-database-schema)
+[🚀 Live Demo](https://threadly-ashy.vercel.app) · [📋 Features](#-features) · [🛠 Setup](#-local-development) · [🗄 Database](#-database-schema)
 
 </div>
 
